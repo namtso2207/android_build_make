@@ -63,9 +63,6 @@ PRODUCT_PACKAGES += \
     SecureElement \
     SharedStorageBackup \
     SimAppDialog \
-    Telecom \
-    TelephonyProvider \
-    TeleService \
     Traceur \
     UserDictionaryProvider \
     VpnDialogs \
@@ -76,7 +73,6 @@ PRODUCT_SYSTEM_SERVER_APPS += \
     FusedLocation \
     InputDevices \
     KeyChain \
-    Telecom \
 
 PRODUCT_COPY_FILES += \
     frameworks/av/media/libeffects/data/audio_effects.conf:system/etc/audio_effects.conf
